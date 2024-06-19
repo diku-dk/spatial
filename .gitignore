@@ -1,0 +1,6 @@
+lib/github.com/athas
+lib/github.com/diku-dk/*
+!lib/github.com/diku-dk/spatial
+
+
+
